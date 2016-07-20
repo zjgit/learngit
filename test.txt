@@ -6,3 +6,7 @@ Creating a new branch is quick
 //Creating a new branch is quick & simple.(master branch)
 Creating a new branch is quick AND simple.(feature)
 create new branch about dev
+
+git remote rm origin
+git remote add origin https://github.com/zigit/learngit.git
+git push -u origin master
