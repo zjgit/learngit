@@ -12,3 +12,4 @@ git remote add origin https://github.com/zigit/learngit.git
 git push -u origin master
 
 直接提交：git push origin master
+增加几个中文汉字测试
