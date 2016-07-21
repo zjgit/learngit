@@ -1,0 +1,11 @@
+1.进入git安装目录。
+    Git\mingw64\etc\gitcongfig文件中增加以下内容：
+    [gui]     encoding = utf-8
+    [i18n]     commitencoding = gbk 
+    [svn]     pathnameencoding = gbk
+2.进入到Git\mingw64\share\git\completion\git-completion.bash文件中增加以下内容：
+    alias ls='ls --show-control-chars --color=auto'
+    说明：使得在 Git Bash 中输入 ls 命令，可以正常显示中文文件名。
+3.进入到Git\etc\inputrc文件中增加以下内容：
+    set output-meta on set convert-meta off
+    说明：使得在 Git Bash 中可以正常输入中文，比如中文的 commit log。
