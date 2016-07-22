@@ -16,3 +16,4 @@ git push -u origin master
 
 add connect test
 add clone test//主机1添加修改
+git remote add origin git@github.com:(用户名)/版本库名
