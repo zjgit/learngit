@@ -14,6 +14,7 @@ git push -u origin master
 直接提交：git push origin master
 增加几个中文汉字测试
 
-add connect test
+add connect test
 add clone test//主机1添加修改
 git remote add origin git@github.com:(用户名)/版本库名
+
