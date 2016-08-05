@@ -1,0 +1,11 @@
+1.熟练使用svn,git进行版本控制
+2.计算机网络知识深入学习
+3.python学习、shell脚本、Groovy脚本学习
+4.数据库知识（Oracle 或者 MySQL）
+5.Java编程思想、Effective Java的学习（Java深入了解和学习）
+6.Android设计模式源码深度学习
+7.Android新控件新属性学习
+8.Android新请求框架学习
+9.关注Android新动向
+10.Java web项目搭建的学习（需要数据库知识），开始尝试写Java后台
+11.H5,javaScript学习
